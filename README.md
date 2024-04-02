@@ -1,0 +1,1 @@
+Projeto de um banco simples no Terminal no qual foi utilizado um scanner para que o usuário responsável pelo teste forneça os dados no terminal, além de possuir um try catch que incrementa automaticamente os decimais ".00" no valor do saldo se o saldo não tiver valor com números decimais.
